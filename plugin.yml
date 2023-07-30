@@ -1,0 +1,9 @@
+name: TestPlugin
+version: 1.0.0
+api: [4.0.0]
+main: leo\test\main
+description: A simple plugin that sends a custom message on /test command.
+author: LeoWasCoding
+commands:
+  test:
+    description: Sends a custom message.
